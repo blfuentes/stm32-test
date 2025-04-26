@@ -28,4 +28,4 @@ Match SWDIO, SWCLK and GND. Use 3v3 if the board is not connected to external po
 
 ### Debug config
 ![stm32cube ide debug configuration](./setup/stm32ide-debug-configuration.png)
-***Important! Set the reset behaviour to Core reset.
+***Important! Set the reset behaviour to Core reset.***
