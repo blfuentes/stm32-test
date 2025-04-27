@@ -1,4 +1,5 @@
 # How to setup
+https://stm32-base.org/boards/STM32F103C8T6-WeAct-Blue-Pill-Plus-Clone.html
 ## UART
 To enter in the boot mode:
 - press and keep boot button
